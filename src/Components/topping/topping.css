@@ -1,0 +1,19 @@
+.orderBtn {
+  margin-top: 15px;
+  cursor: pointer;
+  padding: 5px 20px;
+  background: none;
+  border: 2px solid #fff;
+  color: #fff;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+div .box {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(233, 192, 10);
+  border-radius: 15px;
+  margin: 20px;
+  box-shadow: #fff;
+}

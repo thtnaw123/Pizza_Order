@@ -1,0 +1,7 @@
+.loader {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  background: rgb(245, 242, 242);
+  margin: 80px auto 0 auto;
+}

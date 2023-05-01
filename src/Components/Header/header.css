@@ -1,0 +1,13 @@
+.header {
+  min-height: 60px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.line {
+  margin: 0 100px;
+}
+.logo {
+  font-size: 30px;
+  margin: 0 80px;
+}

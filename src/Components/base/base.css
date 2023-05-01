@@ -1,0 +1,10 @@
+.Next-Btn {
+  margin-top: 15px;
+  cursor: pointer;
+  padding: 5px 20px;
+  background: none;
+  border: 2px solid #fff;
+  color: #fff;
+  border-radius: 10px;
+  font-size: 20px;
+}

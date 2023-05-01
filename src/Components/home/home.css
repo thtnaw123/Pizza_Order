@@ -1,0 +1,37 @@
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+.msg {
+  font-size: 32px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.btn {
+  height: 50px;
+  width: 250px;
+  color: #fff;
+  border-radius: 25px;
+  font-size: 25px;
+  background: none;
+  border: 2px solid #fff;
+  cursor: pointer;
+}
+
+.object {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: blue;
+}
+
+.object2 {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: red;
+}
